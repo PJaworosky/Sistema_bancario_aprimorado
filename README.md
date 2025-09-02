@@ -4,7 +4,7 @@ Sistema aprimorado com cadastro de usuário
 
 ## Sobre o Projeto 📚
 
-Este projeto é uma evolução de um sistema bancário simples, reimplementado em Python de forma otimizada e modular. Desenvolvido como parte de um **Projeto Integrado** para o curso de **Análise e Desenvolvimento de Sistemas**, o objetivo foi aplicar conceitos avançados de programação para criar um sistema mais robusto e de fácil manutenção.
+Este projeto é uma evolução de um sistema bancário simples, reimplementado em Python de forma otimizada e modular. Desenvolvido como parte de um desafio de código de Bootcamp da DIO. O o objetivo foi aplicar conceitos avançados de programação para criar um sistema mais robusto e de fácil manutenção.
 
 O código foi refatorado utilizando funções com argumentos específicos (por posição e por nome), demonstrando um conhecimento aprofundado na linguagem e na estruturação de software.
 
