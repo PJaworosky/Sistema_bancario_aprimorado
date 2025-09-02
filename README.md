@@ -18,15 +18,7 @@ O sistema bancário possui as seguintes operações, organizadas em funções re
 -   **Cadastro de Usuário:** Uma nova funcionalidade para registrar usuários com nome, data de nascimento, endereço e CPF. O sistema **valida o CPF**, impedindo que usuários duplicados sejam criados.
 -   **Criação de Conta Corrente:** Permite criar novas contas, vinculando-as a um usuário já cadastrado através do CPF. As contas possuem uma agência fixa (`0001`) e um número sequencial.
 
-## Como Executar o Projeto 🚀
+**Paloma Jaworosky 😎❤️**
 
-Para rodar este sistema na sua máquina, siga os passos abaixo:
-
-### Pré-requisitos
-Certifique-se de ter o Python 3.8 ou superior instalado.
-
-### Clonagem do Repositório
-Abra o terminal e execute o comando abaixo para clonar o repositório:
-```bash
-git clone [https://github.com/PJaworosky/seu-repositorio.git](https://github.com/PJaworosky/seu-repositorio.git)
-cd seu-repositorio
+- [GitHub](https://github.com/PJaworosky)
+- [LinkedIn](https://www.linkedin.com/in/palomajaworosky)
